@@ -109,6 +109,9 @@ Download:
 ```text
 haarcascade_frontalface_default.xml
 ```
+Official Download Link:
+
+https://github.com/opencv/opencv/blob/4.x/data/haarcascades/haarcascade_frontalface_default.xml
 
 Place it inside:
 
