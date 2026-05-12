@@ -75,7 +75,7 @@ Face_Recognition_Attendance_System/
 ## Step 1 — Clone Repository
 
 ```bash
-git clone https://github.com/your-username/face-recognition-attendance-system.git
+git clone https://github.com/rajsit-coder/face-recognition-attendance-system.git
 ```
 
 ---
