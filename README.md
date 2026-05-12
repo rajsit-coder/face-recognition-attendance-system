@@ -94,6 +94,12 @@ cd face-recognition-attendance-system
 pip install opencv-python numpy pandas scikit-learn streamlit pywin32
 ```
 
+OR
+
+```bash
+pip install -r requirements.txt
+```
+
 ---
 
 # 📥 Download Haar Cascade File
